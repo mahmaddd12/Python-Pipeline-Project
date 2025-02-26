@@ -1,0 +1,5 @@
+Donor1_2dpi had 4518574 read pairs before Bowtie2 filtering and 3674710 read pairs after.
+Donor1_6dpi had 4009060 read pairs before Bowtie2 filtering and 2872099 read pairs after.
+SPAdes command used: spades.py -k 99 --only-assembler --pe1-1 assembly/Donor1_2dpi_R1.fastq --pe1-2 assembly/Donor1_2dpi_R2.fastq --pe2-1 assembly/Donor1_6dpi_R1.fastq --pe2-2 assembly/Donor1_6dpi_R2.fastq -o assembly/spades_output
+Donor1_2dpi had 4518574 read pairs before Bowtie2 filtering and 3674710 read pairs after.
+Donor1_6dpi had 4009060 read pairs before Bowtie2 filtering and 2872099 read pairs after.
