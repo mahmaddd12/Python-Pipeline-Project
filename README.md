@@ -5,7 +5,7 @@ Therefore my wrapper script won't work, and I wasn't able to test if my analyze_
 
 The two fastq files I have in the repository are sample data made by taking the 40,000 head of the 2dpi fastq files
 
-My other data folders are in my visual studio the paths are
+My other data folders are in my visual studio. The paths are:
 
 /home/2025/mahmad12/assembly/spades_output (the spades output from assemble_spades.py)
 
